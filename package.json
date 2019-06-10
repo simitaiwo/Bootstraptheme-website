@@ -1,0 +1,22 @@
+{
+  "name": "looplab",
+  "version": "1.0.0",
+  "description": "Social UI theme",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Simi Taiwo",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^1.12.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.2.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
